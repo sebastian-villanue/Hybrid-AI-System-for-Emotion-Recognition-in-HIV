@@ -1,0 +1,9 @@
+transformers==4.57.1
+datasets
+torch
+accelerate
+safetensors
+scikit-learn
+pandas
+numpy
+openai
